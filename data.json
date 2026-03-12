@@ -1,0 +1,45 @@
+{
+    "data": {
+        "data": [
+            {
+                "name": "CLARO",
+                "data": [12, 8, 15, 10, 7, 18, 22, 14, 9, 11, 6, 4]
+            },
+            {
+                "name": "MOVISTAR",
+                "data": [9, 14, 11, 17, 13, 8, 19, 16, 12, 7, 10, 7]
+            },
+            {
+                "name": "ENTEL",
+                "data": [5, 7, 3, 9, 11, 6, 8, 13, 7, 4, 5, 6]
+            },
+            {
+                "name": "BITEL",
+                "data": [3, 4, 6, 2, 8, 5, 7, 4, 9, 3, 2, 3]
+            }
+        ],
+        "dates": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+            "January",
+            "February",
+            "March"
+        ],
+        "colors": [
+            "#FF676B",
+            "#48CF84",
+            "#7367F0",
+            "#FFBF26"
+        ]
+    },
+    "meta": {
+        "message": "El reporte fue generado con éxito."
+    }
+}

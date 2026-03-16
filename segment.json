@@ -1,60 +1,30 @@
 {
   "data": [
     {
-      "userId": 1,
-      "user": "Juan Pérez",
-      "processDate": "2026-03-15",
-      "processHour": "10:30:00",
+      
       "totalSent": 1500,
       "totalRecords": 2000,
-      "lastShipping": "2026-03-14",
-      "enterpriseId": 101,
-      "bagfulUserId": 201,
-      "portfolioId": 301,
       "portfolioName": "Cartera Premium",
-      "percentageBagUser": 75.5
+      "percentageBagUser": 20.83
     },
     {
-      "userId": 2,
-      "user": "María García",
-      "processDate": "2026-03-15",
-      "processHour": "11:45:00",
       "totalSent": 800,
       "totalRecords": 1200,
-      "lastShipping": "2026-03-13",
-      "enterpriseId": 101,
-      "bagfulUserId": 202,
-      "portfolioId": 302,
       "portfolioName": "Cartera Estándar",
-      "percentageBagUser": 66.7
+      "percentageBagUser": 12.5
     },
     {
-      "userId": 3,
-      "user": "Carlos López",
-      "processDate": "2026-03-14",
-      "processHour": "09:15:00",
+     
       "totalSent": 3200,
       "totalRecords": 3200,
-      "lastShipping": "2026-03-14",
-      "enterpriseId": 102,
-      "bagfulUserId": 203,
-      "portfolioId": 303,
       "portfolioName": "Cartera VIP",
-      "percentageBagUser": 100.0
+      "percentageBagUser": 33.33
     },
     {
-      "userId": 4,
-      "user": "Marco López",
-      "processDate": "2026-03-14",
-      "processHour": "09:15:00",
       "totalSent": 3200,
       "totalRecords": 3200,
-      "lastShipping": "2026-03-14",
-      "enterpriseId": 102,
-      "bagfulUserId": 203,
-      "portfolioId": 303,
       "portfolioName": "Caja huancayo",
-      "percentageBagUser": 100.0
+      "percentageBagUser": 75.23
     }
   ],
   "meta": {

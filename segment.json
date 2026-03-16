@@ -41,6 +41,20 @@
       "portfolioId": 303,
       "portfolioName": "Cartera VIP",
       "percentageBagUser": 100.0
+    },
+    {
+      "userId": 4,
+      "user": "Marco López",
+      "processDate": "2026-03-14",
+      "processHour": "09:15:00",
+      "totalSent": 3200,
+      "totalRecords": 3200,
+      "lastShipping": "2026-03-14",
+      "enterpriseId": 102,
+      "bagfulUserId": 203,
+      "portfolioId": 303,
+      "portfolioName": "Caja huancayo",
+      "percentageBagUser": 100.0
     }
   ],
   "meta": {

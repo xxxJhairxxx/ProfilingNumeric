@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "userId": 1,
+      "user": "Juan Pérez",
+      "processDate": "2026-03-15",
+      "processHour": "10:30:00",
+      "totalSent": 1500,
+      "totalRecords": 2000,
+      "lastShipping": "2026-03-14",
+      "enterpriseId": 101,
+      "bagfulUserId": 201,
+      "portfolioId": 301,
+      "portfolioName": "Cartera Premium",
+      "percentageBagUser": 75.5
+    },
+    {
+      "userId": 2,
+      "user": "María García",
+      "processDate": "2026-03-15",
+      "processHour": "11:45:00",
+      "totalSent": 800,
+      "totalRecords": 1200,
+      "lastShipping": "2026-03-13",
+      "enterpriseId": 101,
+      "bagfulUserId": 202,
+      "portfolioId": 302,
+      "portfolioName": "Cartera Estándar",
+      "percentageBagUser": 66.7
+    },
+    {
+      "userId": 3,
+      "user": "Carlos López",
+      "processDate": "2026-03-14",
+      "processHour": "09:15:00",
+      "totalSent": 3200,
+      "totalRecords": 3200,
+      "lastShipping": "2026-03-14",
+      "enterpriseId": 102,
+      "bagfulUserId": 203,
+      "portfolioId": 303,
+      "portfolioName": "Cartera VIP",
+      "percentageBagUser": 100.0
+    }
+  ],
+  "meta": {
+    "message": "Registros obtenidos con éxito.",
+    "success": true
+  },
+  "pagination": {
+    "page": 1,
+    "perPage": 10,
+    "totalPages": 1,
+    "totalRecords": 3
+  },
+  "errors": []
+}

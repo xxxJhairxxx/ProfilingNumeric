@@ -1,0 +1,18 @@
+{
+  "data": {
+    "dates": ["Jul", "Ago", "Sep", "Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May", "Jun"],
+    "series": [
+      {
+        "name": "SMS MT",
+        "data": [1200, 4500, 3200, 8700, 2100, 9500, 6300, 1800, 7400, 5200, 3800, 6100]
+      },
+      {
+        "name": "SMS MO",
+        "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      }
+    ]
+  },
+  "meta": {
+    "message": "El reporte fue generado con éxito."
+  }
+}

@@ -1,24 +1,28 @@
 {
     "data": {
-        "data": [
+        "series": [
             {
                 "name": "CLARO",
                 "data": [1215, 815, 1515, 1015, 7254, 185],
+                "total": 12009,
                 "rate": 20.12
             },
             {
                 "name": "MOVISTAR",
                 "data": [9646, 1464, 1165, 1754, 1312, 855],
+                "total": 16196,
                 "rate": 40.25
             },
             {
                 "name": "ENTEL",
                 "data": [5515, 7456, 3156, 9645, 1151, 6212],
+                "total": 33135,
                 "rate": 35.18
             },
             {
                 "name": "BITEL",
                 "data": [3848, 4545,4655, 2545, 8545, 5545],
+                 "total": 29683,
                 "rate": 80.51
             }
         ],
@@ -29,9 +33,15 @@
             "January",
             "February",
             "March"
-        ]
+        ],
+           "period": {
+            "from": "2025-10",
+            "to": "2026-03"
+        }
     },
     "meta": {
-        "message": "El reporte fue generado con éxito."
+        "message": "El reporte fue generado con éxito.",
+        "generatedAt": "2026-03-13T00:00:00Z",
+        "total": 91023
     }
 }

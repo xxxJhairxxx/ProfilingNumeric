@@ -1,0 +1,13 @@
+{
+  "data": {
+    "total_activity": 648,
+    "total_positive": 312,
+    "total_negative": 89,
+    "total_call": 174,
+    "total_clicks": 423
+  },
+  "meta": {
+    "success": true,
+    "message": "Operation completed successfully"
+  }
+}
